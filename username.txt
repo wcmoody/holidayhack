@@ -1,0 +1,21 @@
+assets/tou.html:        To be part of SantaGram, you must create an account that includes a [01;31m[Kusername[m[K and password ("Your Account") and, if you want to be able to reset your password or have us contact you, an email address as well.
+com/northpolewonderland/santagram/C0987b.java:            jSONObject.put("[01;31m[Kusername[m[K", "guest");
+com/northpolewonderland/santagram/Configs.java:        USER_USERNAME = "[01;31m[Kusername[m[K";
+com/northpolewonderland/santagram/SignUp.java:    EditText [01;31m[Kusername[m[KTxt;
+com/northpolewonderland/santagram/SignUp.java:            if (this.f2610a.[01;31m[Kusername[m[KTxt.getText().toString().matches("") || this.f2610a.passwordTxt.getText().toString().matches("") || this.f2610a.fullnameTxt.getText().toString().matches("")) {
+com/northpolewonderland/santagram/SignUp.java:            parseUser.setUsername(this.f2610a.[01;31m[Kusername[m[KTxt.getText().toString());
+com/northpolewonderland/santagram/SignUp.java:            parseUser.setEmail(this.f2610a.[01;31m[Kusername[m[KTxt.getText().toString());
+com/northpolewonderland/santagram/SignUp.java:        inputMethodManager.hideSoftInputFromWindow(this.[01;31m[Kusername[m[KTxt.getWindowToken(), 0);
+com/northpolewonderland/santagram/SignUp.java:        this.[01;31m[Kusername[m[KTxt = (EditText) findViewById(2131558626);
+com/northpolewonderland/santagram/SplashScreen.java:            jSONObject.put("[01;31m[Kusername[m[K", "guest");
+com/parse/ParseRESTUserCommand.java:        hashMap.put("[01;31m[Kusername[m[K", str);
+com/parse/ParseUser.java:    private static final String KEY_USERNAME = "[01;31m[Kusername[m[K";
+com/parse/ParseUser.java:            throw new IllegalArgumentException("Must specify a [01;31m[Kusername[m[K for the user to log in with");
+com/parse/ParseUser.java:            throw new IllegalArgumentException("Can't remove the [01;31m[Kusername[m[K key.");
+com/parse/ParseUser.java:                String [01;31m[Kusername[m[K = currentUser.getUsername();
+com/parse/ParseUser.java:                a = currentUser.saveAsync(sessionToken, isLazy, c0026j).m50b(new C12747(currentUser, [01;31m[Kusername[m[K, password, authData2));
+res/layout/login.xml:            <EditText android:id="0x7f0d009e" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="30dp" android:layout_marginTop="16dp" android:layout_marginRight="30dp" android:hint="[01;31m[Kusername[m[K" android:singleLine="true" android:layout_below="0x7f0d009d" android:layout_centerHorizontal="true" android:inputType="21" android:imeOptions="5" android:textAlignment="4" />
+res/values/ids.xml:    <item type="id" name="[01;31m[Kusername[m[KTxt">false</item>
+res/values/ids.xml:    <item type="id" name="[01;31m[Kusername[m[KTxt2">false</item>
+res/values/public.xml:    <public type="id" name="[01;31m[Kusername[m[KTxt" id="0x7f0d009e" />
+res/values/public.xml:    <public type="id" name="[01;31m[Kusername[m[KTxt2" id="0x7f0d00e2" />
